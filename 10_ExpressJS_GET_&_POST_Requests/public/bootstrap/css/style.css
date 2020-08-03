@@ -1,0 +1,37 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    width: 40px;
+    height: 5px;
+    -webkit-border-radius: 0%;
+    border-radius: 0%;
+    cursor: pointer;
+}
+
+.btn-primary , .bg-primary{
+    background: linear-gradient(45deg,darkslategray,#4285f4);
+}
+.btn-secondary , .bg-secondary{
+    background: linear-gradient(45deg,darkslategray,#aa66cc);
+}
+.btn-success, .bg-success{
+    background: linear-gradient(45deg,darkslategray,#00c851);
+}
+.btn-info , .bg-info{
+    background: linear-gradient(45deg,darkslategray,#33b5e5);
+}
+.btn-warning , .bg-warning{
+    background: linear-gradient(45deg,darkslategray,coral);
+}
+
+.btn-danger , .bg-danger{
+    background: linear-gradient(45deg,darkslategray,#ff3547);
+}
+
+.btn-light , .bg-light{
+    background: linear-gradient(45deg,darkgrey,darkgrey);
+    color: white !important;
+}
+.btn-dark , .bg-dark{
+     background: linear-gradient(45deg,black,darkslategray);
+ }
+
